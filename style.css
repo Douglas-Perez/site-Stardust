@@ -55,8 +55,8 @@ p {
     font-family: Quicksand;
     margin-top: 0px;
     position: relative;
-    left: 70px;
-    top: -8px;
+    left: 2.4em;
+    top: -0.4em;
     text-align: center;
 }
 
@@ -241,5 +241,9 @@ address {
 
     .metodos article {
         margin-bottom: 30px;
+    }
+
+    header {
+        font-size: 0.98em;
     }
 }
